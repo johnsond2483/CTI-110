@@ -1,6 +1,6 @@
 # CTI 110
 # P1LAB1
-# Darion, J
+# Darion J
 # 9/1/26
 # Our First Python Program
 
