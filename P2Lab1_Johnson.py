@@ -8,7 +8,7 @@ Get the Radius and calculate the diameter, circumference, and area
 
 PI = 3.14159 # Constant - do not change
 # Input -- get radius
-radius = float(input("What is the radius of the circle"))
+radius = float(input("What is the radius of the circle?"))
 
 # calculation -- find diameter, circumference, and area
 # diameter = 2*r, circumference = 2*pi*r, area = pi*r*r
