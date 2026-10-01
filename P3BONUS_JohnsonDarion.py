@@ -13,8 +13,8 @@ Else if the player picks 2: go to the car room
 Else if the player picks 3: go to the briefcase room
 Else: the host says that is not a door
 """
-
-
+  
+ 
 def door_1():
     print()
     print("Door 1 swings open.")
