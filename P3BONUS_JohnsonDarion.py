@@ -1,5 +1,6 @@
 # Your Name
-# Date
+# 9/29/2026
+# CTI-110
 # M3BONUS - Let's Make a Deal
 # A short text adventure. The player picks a door and wins a prize.
 
